@@ -1,0 +1,7 @@
+digraph SimpleList{
+ 	0[label="hola"]
+	1[label="mundo"]
+	0->1
+	2[label="adios"]
+	1->2
+}

@@ -1,0 +1,7 @@
+digraph Stack{
+ 	0[label="1"]
+	1[label="2017"]
+	1->0
+	2[label="52"]
+	2->1
+}
