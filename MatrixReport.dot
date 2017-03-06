@@ -1,0 +1,14 @@
+digraph SparseMatrix{
+	
+	"ENC@ENC"->"ENC@gmail.com"
+	"ENC@ENC"->"a@ENC"
+	"ENC@ENC"[label="ENC@ENC" shape="square" ]
+	"a@ENC"->"adios@yahoo.com"
+	"a@ENC"[label="a@ENC" shape="square" ]
+	"ENC@gmail.com"->"ENC@hotmail.com"
+	"ENC@gmail.com"[label="ENC@gmail.com" shape="square" ]
+	"ENC@hotmail.com"->"ENC@yahoo.com"
+	"ENC@hotmail.com"[label="ENC@hotmail.com" shape="square" ]
+	"ENC@yahoo.com"->"adios@yahoo.com"
+	"ENC@yahoo.com"[label="ENC@yahoo.com" shape="square" ]
+	"adios@yahoo.com"[label="adios@yahoo.com" shape="square" ]}
